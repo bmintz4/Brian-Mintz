@@ -1,0 +1,12 @@
+format: jb-book
+root: main
+parts:
+- caption: Projects
+  chapters:
+    - file: projects/Shell-Implementation
+    - file: projects/Agile-Development-Documentation
+    - file: projects/Threads-Comparison-Project
+
+- caption: Certifications
+  chapters:
+    - file: certifications/CompTIA-A+
